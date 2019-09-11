@@ -1,0 +1,57 @@
+@@ Here WE GO
+https://en.wikipedia.org/wiki/Direct_debit
+https://de.wikipedia.org/wiki/Lastschrift
+https://en.wikipedia.org/wiki/International_Bank_Account_Number
+https://www.iban.com/country/germany
+https://www.xe.com/ar/ibancalculator/sample/?ibancountry=germany
+https://bank.codes/iban/structure/germany/
+https://transferwise.com/gb/iban/germany/deutsche-bank
+https://www.ecbs.org/iban/germany-bank-account-number.html
+https://www.ibancalculator.com/faq.html
+https://ssl.ibanrechner.de/sample_accounts.html
+https://www.sparkasse-landshut.de/en/Englisch/konten-und-karten/zahlungsverkehr/lightboxes/iban-und-bic.html
+https://www.sparkasse.de/service/sepa.html
+http://www.cbq.qa/ar/advice-and-information/information-library/how-to-guides/pages/iban-guide.aspx
+https://ar.wikipedia.org/wiki/%D8%B1%D9%82%D9%85_%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A
+http://www.profitmal.com/%D8%A7%D9%8A%D8%A8%D8%A7%D9%86/
+https://dict.leo.org/forum/viewUnsolvedquery.php?idforum=1&idThread=118417&lp=ende
+https://www.billpay.de/en/about_sepa
+https://www.op.fi/private-customers/daily-banking/payment/sepa-payment
+https://en.wikipedia.org/wiki/Single_Euro_Payments_Area
+https://www.investopedia.com/terms/s/sepa.asp
+https://www.currencyfair.com/blog/sepa-affect-currency-transfer/
+https://gocardless.com/guides/sepa/introduction/
+https://transferwise.com/help/15/paying-for-your-transfer/2956754/what-are-sepa-transfers
+https://www.europeanpaymentscouncil.eu/about-sepa
+https://www.caixabank.es/empresa/sepa/queessepa_en.html
+https://www.ecb.europa.eu/paym/retpaym/paymint/sepa/html/index.en.html
+https://debitoor.com/dictionary/sepa
+https://www.kbc.be/corporate/en/article/payments/what-is-sepa.html
+https://www.bundesbank.de/en/service/media-library/videos/what-is-sepa--665970
+https://www.isbank.de/en/corporate-banking/payments-and-transfers/sepa-domestic-and-international-transfers/
+http://www.money2india.eu/sepa.page
+https://bankenverband.de/media/files/EPC230-08_v7.0_Shortcut-to-SEPA-Credit-Transfer.pdf
+https://bankenverband.de/media/files/EPC222-08_v6.0_Shortcut-to-SEPA-Direct-Debit.pdf
+https://www.dpma.de/docs/english/formulare/allg_eng/a9534_1.pdf
+https://www.dhl.de/en/geschaeftskunden/paket/kunde-werden/sepa.html
+https://www.uni-assist.de/en/tools/glossary-of-terms/description/details/sepa-procedure/
+https://support.slimpay.com/hc/en-us/articles/360000228289-What-are-the-supported-currencies-and-payment-schemes-
+https://www.handelsbanken.com/en/about-the-group/locations/germany
+https://www.denizbank.de/en/CustomerService/FAQ/SEPACorporateCustomers.html
+https://www.bundesbank.de/en/tasks/payment-systems/sepa/sepa-direct-debit-626654
+https://www.commerzbank.de/portal/en/help/konten/lastschrift/lastschriftrueckgabe.html
+https://intercard.de/en/retailer/background-information/ec-direct-debit
+https://www.bafin.de/SharedDocs/FAQs/EN/Verbraucher/Bank/Zahlungsverkehr/02_abbuchungsauftrag_sepa_einzugsermaechtigung.html
+https://www.sparkasse-landshut.de/en/Englisch/konten-und-karten/zahlungsverkehr/lightboxes/sepa-lastschrift.html?n=true
+https://www.solarisbank.com/content/partner/Zahlungen_mittels_Lastschrift_im_SEPA-Basislastschriftverfahren_v1.3_english.pdf
+https://www.danskebank.de/PDF/EN/Terms-and-Conditions-SEPA-B2B-Direct-Debit-Scheme.pdf
+https://www.dpma.de/english/services/fees/payment_transactions/faq/index.html
+intext:sparkasse what is sepa?
+intext:sparkasse what is direct debit?
+intext:sparkasse what is iBAN?
+intext:sparkasse what is BIC?
+intext:sparkasse Lastschrift
+intext:sparkasse SEPA
+intext:sparkasse Direct Debit
+intext:sparkasse IBAN
+// By FrankyDonkey
