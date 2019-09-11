@@ -1,0 +1,9 @@
+https://www.iban.com/calculate-iban
+https://www.ibancalculator.com/bic_und_iban.html
+https://bank.codes/iban/generate
+https://www.bindb.com/iban-generator.html
+https://www.creativeeyes.at/tools/iban.php
+==============================
+// Exploit By FrankyDonkey   =
+// Date: 11.09.2019          =
+==============================
